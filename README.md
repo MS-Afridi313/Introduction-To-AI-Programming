@@ -14,7 +14,19 @@ The course *Introduction to AI Programming* focuses on building a foundational u
 
 ## 🧪 Lab Coverage
 
-The lab reports in this repository cover key topics such as Python fundamentals for AI, core AI concepts, logical reasoning, problem-solving techniques, and introductory AI models.
+The lab reports in this repository focus on Python-based experimentation for Artificial Intelligence, covering a wide range of topics including:
+
+- Python fundamentals: variables, data types, operators  
+- Control structures: if-else statements, loops (for, while)  
+- Functions and modular programming  
+- Data structures: lists, tuples, dictionaries, sets  
+- File handling and input/output operations  
+- Basic algorithmic logic and problem-solving techniques   
+- Basic Python debugging and best coding practices  
+- Introductory AI concepts implemented using Python  
+
+*(Lab topics may expand as additional experiments are conducted during the course.)*
+
 
 ---
 
@@ -25,13 +37,13 @@ The lab reports in this repository cover key topics such as Python fundamentals 
 - **Instructor:** Sir Irshadullah
 - **University:** University of Engineering and Technology Peshawar, Jalozai, Pakistan
 
----
+---## 📌 Purpose of This Repository
 
-## 📌 Purpose of This Repository
-
-- To maintain a professional and well-organized academic record of AI lab work  
-- To support learning, revision, and long-term reference of AI fundamentals  
-- To demonstrate documentation quality and academic discipline aligned with a professional AI engineering profile  
+- To maintain a professional and well-organized record of Python-based AI lab work  
+- To support learning, revision, and long-term reference of Python programming and AI fundamentals  
+- To demonstrate documentation quality, coding discipline, and academic rigor aligned with a professional AI engineering profile  
+ 
+ 
 
 ---
 

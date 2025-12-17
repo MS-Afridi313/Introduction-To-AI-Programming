@@ -4,7 +4,7 @@
 This repository contains a **structured collection of lab reports for Python programming** in the course **“Introduction to AI Programming”**. It documents all Python-based AI lab work conducted during the course and is designed to include additional labs as the course progresses.
 
 
----## 🧠 Course Overview
+## 🧠 Course Overview
 
 The course *Introduction to AI Programming* focuses on developing a strong foundation in **Python programming for Artificial Intelligence**. Through hands-on labs, students learn Python fundamentals, problem-solving techniques, algorithmic thinking, and the practical implementation of AI concepts using Python.
 

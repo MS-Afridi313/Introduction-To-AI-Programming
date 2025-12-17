@@ -28,7 +28,7 @@ The lab reports in this repository focus on Python-based experimentation for Art
 *(Lab topics may expand as additional experiments are conducted during the course.)*
 
 
----
+
 
 ## 🎓 Academic Information
 
@@ -37,7 +37,7 @@ The lab reports in this repository focus on Python-based experimentation for Art
 - **Instructor:** Sir Irshadullah
 - **University:** University of Engineering and Technology Peshawar, Jalozai, Pakistan
 
----## 📌 Purpose of This Repository
+## 📌 Purpose of This Repository
 
 - To maintain a professional and well-organized record of Python-based AI lab work  
 - To support learning, revision, and long-term reference of Python programming and AI fundamentals  
